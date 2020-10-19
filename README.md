@@ -1,6 +1,6 @@
 # devoir-git
 
-01 Nom:
+01 Nom: STUDTER Maxime
 01 github:
 02 Nom: Maxendre Buvot
 02 github:
