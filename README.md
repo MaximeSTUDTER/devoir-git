@@ -1,7 +1,7 @@
 # devoir-git
 
 01 Nom: STUDTER Maxime
-01 github:
+01 github: MaximeSTUDTER
 02 Nom: Maxendre Buvot
 02 github:
 03 Nom: Rousseau Antoine
